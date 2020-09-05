@@ -1,8 +1,6 @@
 # R Programming for Data Science
 ## Roger D. Peng
 
-THIS IS A TEST (GUILLERMO)
-
 
 This repository contains the files for the book *R Programming for
 Data Science*, as it is built on [bookdown.org](https://bookdown.org/rdpeng/rprogdatascience/) and on
